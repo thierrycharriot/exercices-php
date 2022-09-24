@@ -1,6 +1,6 @@
 # Exercices PHP
 
-Exercices fait pour revoir les bases en PHP.
+Exercices pour revoir les bases en PHP. 
 
 ![Screenshot](screenshot.png)
 
