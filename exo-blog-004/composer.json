@@ -1,0 +1,20 @@
+{
+    "name": "exos/exo-blog-004",
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "app/Controllers"
+        }
+    },
+    "authors": [
+        {
+            "name": "bibibricodeur",
+            "email": "bibibricodeur@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
