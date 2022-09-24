@@ -1,8 +1,4 @@
-# Exercices PHP
-
-Exercices fait pour revoir les bases en PHP.
-
-![Screenshot](screenshot.png)
+# exo-blog-001
 
 ## Installation
 
