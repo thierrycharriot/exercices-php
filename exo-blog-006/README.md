@@ -1,4 +1,4 @@
-# exo-blog-05
+# exo-blog-06
 
 - [Github AltoRouter](https://github.com/dannyvankooten/AltoRouter)
 
