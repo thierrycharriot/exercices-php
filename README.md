@@ -1,4 +1,4 @@
-# Exercices PHP
+# PHP Exercices
 
 Exercices pour revoir les bases en PHP. 
 
